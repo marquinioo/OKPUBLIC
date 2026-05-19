@@ -21,6 +21,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) — middleware redirects to `/en`.
 
+**Preview deployment:** [https://okpublic.vercel.app](https://okpublic.vercel.app)
+
 ## Project structure
 
 | Path | Purpose |
