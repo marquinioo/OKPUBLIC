@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "home": {
+      "title": "Oktana | Socio Summit de Salesforce y especialista en IA",
+      "description": "Oktana es Socio Consultor Summit de Salesforce que ayuda a empresas de EE. UU. a implementar IA, optimizar su org y escalar con expertos nearshore. CSAT 4.9/5. Más de 1,000 proyectos."
+    }
+  },
+  "nav": {
+    "services": "Servicios",
+    "industries": "Industrias",
+    "whyOktana": "Por qué Oktana",
+    "resources": "Recursos",
+    "contact": "Contáctenos",
+    "talkToUs": "Hable con nosotros"
+  },
+  "footer": {
+    "tagline": "Ayudamos a las empresas a prepararse para la IA",
+    "services": "Servicios",
+    "industries": "Industrias",
+    "company": "Empresa",
+    "copyright": "© {year} Oktana. Todos los derechos reservados.",
+    "privacy": "Política de privacidad"
+  },
+  "common": {
+    "learnMore": "Saber más",
+    "readStory": "Leer el caso",
+    "viewAll": "Ver todo",
+    "visitBlog": "Visitar el blog",
+    "startConversation": "Iniciar una conversación",
+    "talkToTeam": "Hable con nuestro equipo",
+    "seeOurWork": "Vea nuestro trabajo"
+  },
+  "home": {
+    "hero": {
+      "headline": "Su org de Salesforce. Lista para la IA.",
+      "subheadline": "Oktana es el Socio Summit nearshore de Salesforce que ayuda a empresas de EE. UU. a implementar IA, eliminar deuda técnica y construir los sistemas que impulsan la próxima década de crecimiento.",
+      "trust": {
+        "summit": "Socio Summit de Salesforce",
+        "soc2": "Certificación SOC 2",
+        "csat": "CSAT 4.9/5",
+        "projects": "Más de 1,000 proyectos"
+      }
+    },
+    "stats": {
+      "experts": { "value": "250+", "label": "Expertos Salesforce" },
+      "projects": { "value": "1,000+", "label": "Proyectos entregados" },
+      "csat": { "value": "4.9/5", "label": "Puntuación CSAT" },
+      "relationship": { "value": "4–5 años", "label": "Relación promedio con clientes" }
+    },
+    "services": {
+      "eyebrow": "Nuestros servicios",
+      "headline": "Todo lo que su ecosistema Salesforce necesita — bajo un mismo techo.",
+      "items": {
+        "ai": { "title": "IA y Agentforce", "description": "Diseño e implementación de agentes de IA y flujos en la plataforma Salesforce." },
+        "implementation": { "title": "Implementación Salesforce", "description": "Entrega integral de proyectos, de la idea al go-live, en cualquier nube Salesforce." },
+        "managed": { "title": "Servicios gestionados y optimización", "description": "Mantenga su org saludable, escalable y sin deuda con soporte gestionado continuo." },
+        "mulesoft": { "title": "MuleSoft e integraciones", "description": "Conecte cada sistema de su stack con gestión de APIs de nivel enterprise." },
+        "data": { "title": "Datos y analítica", "description": "Insights con Salesforce Data Cloud, Snowflake y Einstein Analytics." },
+        "engineering": { "title": "Ingeniería digital y staff aug", "description": "Amplíe su equipo con ingenieros nearshore senior en cualquier stack." },
+        "design": { "title": "Diseño UI/UX", "description": "Interfaces funcionales y atractivas para Experience Cloud, portales y apps." }
+      }
+    },
+    "why": {
+      "headline": "El socio que permanece — mucho después del go-live.",
+      "body": "La mayoría de consultores entregan el proyecto y se van. Los clientes de Oktana regresan — con un engagement promedio de más de cuatro años. Tratamos su org de Salesforce como propia: respondemos por resultados, no solo entregables.",
+      "pillars": {
+        "summit": { "title": "Experiencia nivel Summit", "description": "Más de 900 certificaciones Salesforce en nuestro equipo. Menos del 10% de socios alcanza Summit." },
+        "nearshore": { "title": "Ventaja nearshore", "description": "Talento senior latinoamericano en su zona horaria, a tarifas competitivas. Sin fricción de husos horarios." },
+        "trust": { "title": "Confianza enterprise", "description": "Certificación SOC 2. Recursos onshore disponibles para industrias reguladas." },
+        "accountability": { "title": "Responsabilidad real", "description": "Account managers dedicados, facturación T&M transparente, dashboards de desempeño." }
+      }
+    },
+    "industries": {
+      "headline": "Diseñado para la complejidad de su industria."
+    },
+    "stories": {
+      "headline": "Pruebas, no promesas.",
+      "items": {
+        "healthcare": {
+          "tag": "Salud",
+          "title": "Portal paciente-proveedor compatible y alineado con HIPAA para un sistema de salud nacional — a tiempo y en presupuesto."
+        },
+        "fintech": {
+          "tag": "Fintech",
+          "title": "Automatización QA que redujo en 60% el tiempo de pruebas de regresión para una fintech de EE. UU."
+        },
+        "hightech": {
+          "tag": "Alta tecnología",
+          "title": "Comunidad de desarrolladores API escalable con MuleSoft Anypoint para una empresa de software global."
+        }
+      },
+      "cta": "Ver todos los casos de éxito"
+    },
+    "ctaBand": {
+      "headline": "¿Listo para sacar más de Salesforce?",
+      "subtext": "Ya sea que empiece de cero, optimice lo que tiene o implemente agentes de IA — ya lo hemos hecho. Hablemos."
+    },
+    "mission": {
+      "eyebrow": "Por qué lo hacemos",
+      "headline": "Gran tecnología. Mayor impacto.",
+      "body": "Oktana se fundó con una creencia simple: que el talento de ingeniería de clase mundial existe mucho más allá de Silicon Valley. Construimos una empresa que aporta oportunidad económica a comunidades en crecimiento en Latinoamérica — mientras entregamos el trabajo técnico que hace que nuestros clientes regresen año tras año.",
+      "link": "Conozca más sobre nuestra misión"
+    },
+    "partners": {
+      "eyebrow": "Socios y certificaciones de confianza"
+    },
+    "blog": {
+      "headline": "De nuestro equipo al suyo."
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contacto Oktana | Inicie una conversación sobre Salesforce",
+      "description": "¿Listo para hablar de Salesforce? Contacte al equipo Summit de Oktana. Respondemos en un día hábil."
+    },
+    "hero": {
+      "headline": "Descubramos qué necesita.",
+      "subheadline": "Ya sea que tenga un proyecto definido o la sensación de que su org de Salesforce podría rendir más — estamos listos para conversar. Sin compromiso. Sin presión. Solo experiencia."
+    },
+    "form": {
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "company": "Empresa",
+      "jobTitle": "Cargo",
+      "email": "Correo electrónico",
+      "phone": "Teléfono (opcional)",
+      "message": "¿En qué está trabajando?",
+      "source": "¿Cómo nos conoció?",
+      "submit": "Enviar mensaje"
+    },
+    "trust": {
+      "response": "Respondemos en 1 día hábil",
+      "contracts": "No se requieren contratos a largo plazo para empezar",
+      "discovery": "Llamada de descubrimiento gratuita — sin pitch deck, solo conversación",
+      "csat": "CSAT 4.9/5 | Relación promedio de 4–5 años con clientes"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Sobre Oktana | Socio Summit de Salesforce desde 2014",
+      "description": "Oktana es Socio Consultor Summit de Salesforce fundado en 2014. Más de 250 expertos. Más de 1,000 proyectos."
+    },
+    "hero": {
+      "headline": "Construimos a largo plazo desde el primer día.",
+      "subheadline": "Oktana se fundó en 2014 con una idea simple: que la gran ingeniería Salesforce puede venir de cualquier lugar — y que el mejor equipo se construye invirtiendo en personas, no solo en proyectos."
+    },
+    "story": {
+      "headline": "De un equipo pequeño con grandes ambiciones — a más de 250 expertos en las Américas.",
+      "body": "En 2014, Oktana lanzó como firma de consultoría Salesforce con una misión simple: entregar excelente trabajo y construir alianzas reales. Una década después, hemos entregado más de 1,000 proyectos, obtenido el estatus Summit tres años consecutivos y construido centros de entrega certificados como Great Places to Work."
+    },
+    "values": {
+      "curious": { "title": "Curiosos", "description": "Preguntamos por qué. Capacitamos continuamente. La nueva tecnología nos motiva." },
+      "collaborative": { "title": "Colaborativos", "description": "Trabajamos como un solo equipo. El suyo y el nuestro." },
+      "authentic": { "title": "Auténticos", "description": "Lideramos con transparencia. Decimos lo que pensamos y cumplimos lo que prometemos." },
+      "owners": { "title": "Dueños", "description": "Bloqueado no es aceptable. Corremos hacia los desafíos. Su éxito es el nuestro." }
+    },
+    "cta": "¿Listo para trabajar con un equipo que permanece?"
+  },
+  "successStories": {
+    "meta": {
+      "title": "Casos de éxito | Socio Salesforce Oktana",
+      "description": "Descubra cómo Oktana ha ayudado a empresas en salud, fintech, alta tecnología y más a lograr resultados Salesforce duraderos."
+    },
+    "hero": {
+      "headline": "Más de 1,000 proyectos. Innumerables resultados. Estos son algunos de nuestros favoritos.",
+      "subheadline": "Cada proyecto es diferente. Cada resultado es real. Explore cómo hemos ayudado a empresas de distintas industrias a desbloquear el valor de Salesforce — y a regresar."
+    },
+    "cta": "¿Quiere ser nuestro próximo caso de éxito?"
+  },
+  "language": {
+    "en": "English",
+    "es": "Español"
+  }
+}
